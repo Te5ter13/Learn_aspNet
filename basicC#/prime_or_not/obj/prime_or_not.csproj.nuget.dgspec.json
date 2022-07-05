@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tester13/Documents/Dotnet_Lab/prime_or_not/prime_or_not.csproj": {}
+  },
+  "projects": {
+    "/home/tester13/Documents/Dotnet_Lab/prime_or_not/prime_or_not.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tester13/Documents/Dotnet_Lab/prime_or_not/prime_or_not.csproj",
+        "projectName": "prime_or_not",
+        "projectPath": "/home/tester13/Documents/Dotnet_Lab/prime_or_not/prime_or_not.csproj",
+        "packagesPath": "/home/tester13/.nuget/packages/",
+        "outputPath": "/home/tester13/Documents/Dotnet_Lab/prime_or_not/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tester13/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/linuxbrew/.linuxbrew/Cellar/dotnet/5.0.207/libexec/sdk/5.0.207/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/bin/Debug/net5.0/delegate_sum_diff
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/bin/Debug/net5.0/delegate_sum_diff.deps.json
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/bin/Debug/net5.0/delegate_sum_diff.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/bin/Debug/net5.0/delegate_sum_diff.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/bin/Debug/net5.0/delegate_sum_diff.dll
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/bin/Debug/net5.0/ref/delegate_sum_diff.dll
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/bin/Debug/net5.0/delegate_sum_diff.pdb
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/obj/Debug/net5.0/delegate_sum_diff.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/obj/Debug/net5.0/delegate_sum_diff.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/obj/Debug/net5.0/delegate_sum_diff.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/obj/Debug/net5.0/delegate_sum_diff.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/obj/Debug/net5.0/delegate_sum_diff.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/obj/Debug/net5.0/delegate_sum_diff.dll
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/obj/Debug/net5.0/ref/delegate_sum_diff.dll
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/obj/Debug/net5.0/delegate_sum_diff.pdb
+/home/tester13/Documents/Dotnet_Lab/delegate_sum_diff/obj/Debug/net5.0/delegate_sum_diff.genruntimeconfig.cache

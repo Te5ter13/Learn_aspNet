@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "with_delegate_eg/1.0.0": {
+        "runtime": {
+          "with_delegate_eg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "with_delegate_eg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

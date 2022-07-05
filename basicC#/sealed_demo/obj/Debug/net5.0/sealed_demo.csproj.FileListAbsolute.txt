@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/bin/Debug/net5.0/sealed_demo
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/bin/Debug/net5.0/sealed_demo.deps.json
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/bin/Debug/net5.0/sealed_demo.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/bin/Debug/net5.0/sealed_demo.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/bin/Debug/net5.0/sealed_demo.dll
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/bin/Debug/net5.0/ref/sealed_demo.dll
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/bin/Debug/net5.0/sealed_demo.pdb
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/obj/Debug/net5.0/sealed_demo.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/obj/Debug/net5.0/sealed_demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/obj/Debug/net5.0/sealed_demo.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/obj/Debug/net5.0/sealed_demo.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/obj/Debug/net5.0/sealed_demo.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/obj/Debug/net5.0/sealed_demo.dll
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/obj/Debug/net5.0/ref/sealed_demo.dll
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/obj/Debug/net5.0/sealed_demo.pdb
+/home/tester13/Documents/Dotnet_Lab/sealed_demo/obj/Debug/net5.0/sealed_demo.genruntimeconfig.cache

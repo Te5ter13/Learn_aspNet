@@ -1,0 +1,49 @@
+@page
+@model EmployeeRecord.Pages.Employees.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>EmployeeModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="EmployeeModel.EmpName" class="control-label"></label>
+                <input asp-for="EmployeeModel.EmpName" class="form-control" />
+                <span asp-validation-for="EmployeeModel.EmpName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeModel.EmpLastName" class="control-label"></label>
+                <input asp-for="EmployeeModel.EmpLastName" class="form-control" />
+                <span asp-validation-for="EmployeeModel.EmpLastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeModel.Age" class="control-label"></label>
+                <input asp-for="EmployeeModel.Age" class="form-control" />
+                <span asp-validation-for="EmployeeModel.Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeModel.EnrollmentDate" class="control-label"></label>
+                <input asp-for="EmployeeModel.EnrollmentDate" class="form-control" />
+                <span asp-validation-for="EmployeeModel.EnrollmentDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

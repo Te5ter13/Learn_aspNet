@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/create_folder/obj/Debug/net5.0/create_folder.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/create_folder/obj/Debug/net5.0/create_folder.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/create_folder/obj/Debug/net5.0/create_folder.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/create_folder/obj/Debug/net5.0/create_folder.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/create_folder/obj/Debug/net5.0/create_folder.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/create_folder/bin/Debug/net5.0/create_folder
+/home/tester13/Documents/Dotnet_Lab/create_folder/bin/Debug/net5.0/create_folder.deps.json
+/home/tester13/Documents/Dotnet_Lab/create_folder/bin/Debug/net5.0/create_folder.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/create_folder/bin/Debug/net5.0/create_folder.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/create_folder/bin/Debug/net5.0/create_folder.dll
+/home/tester13/Documents/Dotnet_Lab/create_folder/bin/Debug/net5.0/ref/create_folder.dll
+/home/tester13/Documents/Dotnet_Lab/create_folder/bin/Debug/net5.0/create_folder.pdb
+/home/tester13/Documents/Dotnet_Lab/create_folder/obj/Debug/net5.0/create_folder.dll
+/home/tester13/Documents/Dotnet_Lab/create_folder/obj/Debug/net5.0/ref/create_folder.dll
+/home/tester13/Documents/Dotnet_Lab/create_folder/obj/Debug/net5.0/create_folder.pdb
+/home/tester13/Documents/Dotnet_Lab/create_folder/obj/Debug/net5.0/create_folder.genruntimeconfig.cache

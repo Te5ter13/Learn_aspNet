@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/obj/Debug/net5.0/hashSet_operation.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/obj/Debug/net5.0/hashSet_operation.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/obj/Debug/net5.0/hashSet_operation.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/obj/Debug/net5.0/hashSet_operation.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/obj/Debug/net5.0/hashSet_operation.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/bin/Debug/net5.0/hashSet_operation
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/bin/Debug/net5.0/hashSet_operation.deps.json
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/bin/Debug/net5.0/hashSet_operation.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/bin/Debug/net5.0/hashSet_operation.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/bin/Debug/net5.0/hashSet_operation.dll
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/bin/Debug/net5.0/ref/hashSet_operation.dll
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/bin/Debug/net5.0/hashSet_operation.pdb
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/obj/Debug/net5.0/hashSet_operation.dll
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/obj/Debug/net5.0/ref/hashSet_operation.dll
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/obj/Debug/net5.0/hashSet_operation.pdb
+/home/tester13/Documents/Dotnet_Lab/hashSet_operation/obj/Debug/net5.0/hashSet_operation.genruntimeconfig.cache

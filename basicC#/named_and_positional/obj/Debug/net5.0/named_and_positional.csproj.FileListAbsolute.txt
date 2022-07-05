@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/obj/Debug/net5.0/named_and_positional.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/obj/Debug/net5.0/named_and_positional.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/obj/Debug/net5.0/named_and_positional.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/obj/Debug/net5.0/named_and_positional.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/obj/Debug/net5.0/named_and_positional.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/bin/Debug/net5.0/named_and_positional
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/bin/Debug/net5.0/named_and_positional.deps.json
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/bin/Debug/net5.0/named_and_positional.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/bin/Debug/net5.0/named_and_positional.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/bin/Debug/net5.0/named_and_positional.dll
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/bin/Debug/net5.0/ref/named_and_positional.dll
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/bin/Debug/net5.0/named_and_positional.pdb
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/obj/Debug/net5.0/named_and_positional.dll
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/obj/Debug/net5.0/ref/named_and_positional.dll
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/obj/Debug/net5.0/named_and_positional.pdb
+/home/tester13/Documents/Dotnet_Lab/named_and_positional/obj/Debug/net5.0/named_and_positional.genruntimeconfig.cache

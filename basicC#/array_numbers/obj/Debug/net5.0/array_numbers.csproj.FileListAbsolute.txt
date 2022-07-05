@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/array_numbers/obj/Debug/net5.0/array_numbers.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/array_numbers/obj/Debug/net5.0/array_numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/array_numbers/obj/Debug/net5.0/array_numbers.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/array_numbers/obj/Debug/net5.0/array_numbers.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/array_numbers/obj/Debug/net5.0/array_numbers.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/array_numbers/bin/Debug/net5.0/array_numbers
+/home/tester13/Documents/Dotnet_Lab/array_numbers/bin/Debug/net5.0/array_numbers.deps.json
+/home/tester13/Documents/Dotnet_Lab/array_numbers/bin/Debug/net5.0/array_numbers.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/array_numbers/bin/Debug/net5.0/array_numbers.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/array_numbers/bin/Debug/net5.0/array_numbers.dll
+/home/tester13/Documents/Dotnet_Lab/array_numbers/bin/Debug/net5.0/ref/array_numbers.dll
+/home/tester13/Documents/Dotnet_Lab/array_numbers/bin/Debug/net5.0/array_numbers.pdb
+/home/tester13/Documents/Dotnet_Lab/array_numbers/obj/Debug/net5.0/array_numbers.dll
+/home/tester13/Documents/Dotnet_Lab/array_numbers/obj/Debug/net5.0/ref/array_numbers.dll
+/home/tester13/Documents/Dotnet_Lab/array_numbers/obj/Debug/net5.0/array_numbers.pdb
+/home/tester13/Documents/Dotnet_Lab/array_numbers/obj/Debug/net5.0/array_numbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/obj/Debug/net5.0/prime_or_not.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/obj/Debug/net5.0/prime_or_not.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/obj/Debug/net5.0/prime_or_not.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/obj/Debug/net5.0/prime_or_not.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/obj/Debug/net5.0/prime_or_not.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/bin/Debug/net5.0/prime_or_not
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/bin/Debug/net5.0/prime_or_not.deps.json
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/bin/Debug/net5.0/prime_or_not.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/bin/Debug/net5.0/prime_or_not.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/bin/Debug/net5.0/prime_or_not.dll
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/bin/Debug/net5.0/ref/prime_or_not.dll
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/bin/Debug/net5.0/prime_or_not.pdb
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/obj/Debug/net5.0/prime_or_not.dll
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/obj/Debug/net5.0/ref/prime_or_not.dll
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/obj/Debug/net5.0/prime_or_not.pdb
+/home/tester13/Documents/Dotnet_Lab/prime_or_not/obj/Debug/net5.0/prime_or_not.genruntimeconfig.cache

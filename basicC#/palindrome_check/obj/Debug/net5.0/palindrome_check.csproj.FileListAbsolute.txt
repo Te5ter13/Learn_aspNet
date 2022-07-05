@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/bin/Debug/net5.0/palindrome_check
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/bin/Debug/net5.0/palindrome_check.deps.json
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/bin/Debug/net5.0/palindrome_check.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/bin/Debug/net5.0/palindrome_check.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/bin/Debug/net5.0/palindrome_check.dll
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/bin/Debug/net5.0/ref/palindrome_check.dll
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/bin/Debug/net5.0/palindrome_check.pdb
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/obj/Debug/net5.0/palindrome_check.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/obj/Debug/net5.0/palindrome_check.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/obj/Debug/net5.0/palindrome_check.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/obj/Debug/net5.0/palindrome_check.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/obj/Debug/net5.0/palindrome_check.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/obj/Debug/net5.0/palindrome_check.dll
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/obj/Debug/net5.0/ref/palindrome_check.dll
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/obj/Debug/net5.0/palindrome_check.pdb
+/home/tester13/Documents/Dotnet_Lab/palindrome_check/obj/Debug/net5.0/palindrome_check.genruntimeconfig.cache

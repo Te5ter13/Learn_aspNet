@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/bin/Debug/net5.0/Encapsulation
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/bin/Debug/net5.0/Encapsulation.deps.json
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/bin/Debug/net5.0/Encapsulation.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/bin/Debug/net5.0/Encapsulation.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/bin/Debug/net5.0/Encapsulation.dll
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/bin/Debug/net5.0/ref/Encapsulation.dll
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/bin/Debug/net5.0/Encapsulation.pdb
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/obj/Debug/net5.0/Encapsulation.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/obj/Debug/net5.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/obj/Debug/net5.0/Encapsulation.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/obj/Debug/net5.0/Encapsulation.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/obj/Debug/net5.0/Encapsulation.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/obj/Debug/net5.0/Encapsulation.dll
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/obj/Debug/net5.0/ref/Encapsulation.dll
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/obj/Debug/net5.0/Encapsulation.pdb
+/home/tester13/Documents/Dotnet_Lab/Encapsulation/obj/Debug/net5.0/Encapsulation.genruntimeconfig.cache

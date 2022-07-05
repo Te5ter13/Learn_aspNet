@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/obj/Debug/net5.0/structure_with_constructor.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/obj/Debug/net5.0/structure_with_constructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/obj/Debug/net5.0/structure_with_constructor.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/obj/Debug/net5.0/structure_with_constructor.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/obj/Debug/net5.0/structure_with_constructor.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/bin/Debug/net5.0/structure_with_constructor
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/bin/Debug/net5.0/structure_with_constructor.deps.json
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/bin/Debug/net5.0/structure_with_constructor.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/bin/Debug/net5.0/structure_with_constructor.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/bin/Debug/net5.0/structure_with_constructor.dll
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/bin/Debug/net5.0/ref/structure_with_constructor.dll
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/bin/Debug/net5.0/structure_with_constructor.pdb
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/obj/Debug/net5.0/structure_with_constructor.dll
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/obj/Debug/net5.0/ref/structure_with_constructor.dll
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/obj/Debug/net5.0/structure_with_constructor.pdb
+/home/tester13/Documents/Dotnet_Lab/structure_with_constructor/obj/Debug/net5.0/structure_with_constructor.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/bin/Debug/net5.0/structure_in_cs
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/bin/Debug/net5.0/structure_in_cs.deps.json
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/bin/Debug/net5.0/structure_in_cs.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/bin/Debug/net5.0/structure_in_cs.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/bin/Debug/net5.0/structure_in_cs.dll
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/bin/Debug/net5.0/ref/structure_in_cs.dll
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/bin/Debug/net5.0/structure_in_cs.pdb
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/obj/Debug/net5.0/structure_in_cs.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/obj/Debug/net5.0/structure_in_cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/obj/Debug/net5.0/structure_in_cs.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/obj/Debug/net5.0/structure_in_cs.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/obj/Debug/net5.0/structure_in_cs.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/obj/Debug/net5.0/structure_in_cs.dll
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/obj/Debug/net5.0/ref/structure_in_cs.dll
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/obj/Debug/net5.0/structure_in_cs.pdb
+/home/tester13/Documents/Dotnet_Lab/structure_in_cs/obj/Debug/net5.0/structure_in_cs.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/bin/Debug/net5.0/InterfaceEg
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/bin/Debug/net5.0/InterfaceEg.deps.json
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/bin/Debug/net5.0/InterfaceEg.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/bin/Debug/net5.0/InterfaceEg.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/bin/Debug/net5.0/InterfaceEg.dll
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/bin/Debug/net5.0/ref/InterfaceEg.dll
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/bin/Debug/net5.0/InterfaceEg.pdb
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/obj/Debug/net5.0/InterfaceEg.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/obj/Debug/net5.0/InterfaceEg.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/obj/Debug/net5.0/InterfaceEg.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/obj/Debug/net5.0/InterfaceEg.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/obj/Debug/net5.0/InterfaceEg.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/obj/Debug/net5.0/InterfaceEg.dll
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/obj/Debug/net5.0/ref/InterfaceEg.dll
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/obj/Debug/net5.0/InterfaceEg.pdb
+/home/tester13/Documents/Dotnet_Lab/InterfaceEg/obj/Debug/net5.0/InterfaceEg.genruntimeconfig.cache

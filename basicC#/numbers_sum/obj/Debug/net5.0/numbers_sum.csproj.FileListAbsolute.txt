@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/obj/Debug/net5.0/numbers_sum.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/obj/Debug/net5.0/numbers_sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/obj/Debug/net5.0/numbers_sum.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/obj/Debug/net5.0/numbers_sum.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/obj/Debug/net5.0/numbers_sum.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/bin/Debug/net5.0/numbers_sum
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/bin/Debug/net5.0/numbers_sum.deps.json
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/bin/Debug/net5.0/numbers_sum.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/bin/Debug/net5.0/numbers_sum.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/bin/Debug/net5.0/numbers_sum.dll
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/bin/Debug/net5.0/ref/numbers_sum.dll
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/bin/Debug/net5.0/numbers_sum.pdb
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/obj/Debug/net5.0/numbers_sum.dll
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/obj/Debug/net5.0/ref/numbers_sum.dll
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/obj/Debug/net5.0/numbers_sum.pdb
+/home/tester13/Documents/Dotnet_Lab/numbers_sum/obj/Debug/net5.0/numbers_sum.genruntimeconfig.cache

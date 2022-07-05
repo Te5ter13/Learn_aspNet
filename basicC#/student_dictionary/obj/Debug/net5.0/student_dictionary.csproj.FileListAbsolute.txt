@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/obj/Debug/net5.0/student_dictionary.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/obj/Debug/net5.0/student_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/obj/Debug/net5.0/student_dictionary.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/obj/Debug/net5.0/student_dictionary.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/obj/Debug/net5.0/student_dictionary.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/bin/Debug/net5.0/student_dictionary
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/bin/Debug/net5.0/student_dictionary.deps.json
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/bin/Debug/net5.0/student_dictionary.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/bin/Debug/net5.0/student_dictionary.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/bin/Debug/net5.0/student_dictionary.dll
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/bin/Debug/net5.0/ref/student_dictionary.dll
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/bin/Debug/net5.0/student_dictionary.pdb
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/obj/Debug/net5.0/student_dictionary.dll
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/obj/Debug/net5.0/ref/student_dictionary.dll
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/obj/Debug/net5.0/student_dictionary.pdb
+/home/tester13/Documents/Dotnet_Lab/student_dictionary/obj/Debug/net5.0/student_dictionary.genruntimeconfig.cache

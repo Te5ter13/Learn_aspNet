@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/obj/Debug/net5.0/Interface_multi_Inheritance.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/obj/Debug/net5.0/Interface_multi_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/obj/Debug/net5.0/Interface_multi_Inheritance.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/obj/Debug/net5.0/Interface_multi_Inheritance.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/obj/Debug/net5.0/Interface_multi_Inheritance.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/bin/Debug/net5.0/Interface_multi_Inheritance
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/bin/Debug/net5.0/Interface_multi_Inheritance.deps.json
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/bin/Debug/net5.0/Interface_multi_Inheritance.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/bin/Debug/net5.0/Interface_multi_Inheritance.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/bin/Debug/net5.0/Interface_multi_Inheritance.dll
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/bin/Debug/net5.0/ref/Interface_multi_Inheritance.dll
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/bin/Debug/net5.0/Interface_multi_Inheritance.pdb
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/obj/Debug/net5.0/Interface_multi_Inheritance.dll
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/obj/Debug/net5.0/ref/Interface_multi_Inheritance.dll
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/obj/Debug/net5.0/Interface_multi_Inheritance.pdb
+/home/tester13/Documents/Dotnet_Lab/Interface_multi_Inheritance/obj/Debug/net5.0/Interface_multi_Inheritance.genruntimeconfig.cache

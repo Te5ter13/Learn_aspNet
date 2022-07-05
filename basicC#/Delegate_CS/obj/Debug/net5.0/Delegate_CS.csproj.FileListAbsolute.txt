@@ -1,0 +1,5 @@
+/home/tester13/Documents/Dotnet_Lab/Delegate_CS/obj/Debug/net5.0/Delegate_CS.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/Delegate_CS/obj/Debug/net5.0/Delegate_CS.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/Delegate_CS/obj/Debug/net5.0/Delegate_CS.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/Delegate_CS/obj/Debug/net5.0/Delegate_CS.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/Delegate_CS/obj/Debug/net5.0/Delegate_CS.csproj.CoreCompileInputs.cache

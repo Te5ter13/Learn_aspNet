@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/write_text_file/obj/Debug/net5.0/write_text_file.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/write_text_file/obj/Debug/net5.0/write_text_file.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/write_text_file/obj/Debug/net5.0/write_text_file.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/write_text_file/obj/Debug/net5.0/write_text_file.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/write_text_file/obj/Debug/net5.0/write_text_file.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/write_text_file/bin/Debug/net5.0/write_text_file
+/home/tester13/Documents/Dotnet_Lab/write_text_file/bin/Debug/net5.0/write_text_file.deps.json
+/home/tester13/Documents/Dotnet_Lab/write_text_file/bin/Debug/net5.0/write_text_file.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/write_text_file/bin/Debug/net5.0/write_text_file.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/write_text_file/bin/Debug/net5.0/write_text_file.dll
+/home/tester13/Documents/Dotnet_Lab/write_text_file/bin/Debug/net5.0/ref/write_text_file.dll
+/home/tester13/Documents/Dotnet_Lab/write_text_file/bin/Debug/net5.0/write_text_file.pdb
+/home/tester13/Documents/Dotnet_Lab/write_text_file/obj/Debug/net5.0/write_text_file.dll
+/home/tester13/Documents/Dotnet_Lab/write_text_file/obj/Debug/net5.0/ref/write_text_file.dll
+/home/tester13/Documents/Dotnet_Lab/write_text_file/obj/Debug/net5.0/write_text_file.pdb
+/home/tester13/Documents/Dotnet_Lab/write_text_file/obj/Debug/net5.0/write_text_file.genruntimeconfig.cache

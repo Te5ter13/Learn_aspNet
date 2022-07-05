@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/bin/Debug/net5.0/digits_delegates
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/bin/Debug/net5.0/digits_delegates.deps.json
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/bin/Debug/net5.0/digits_delegates.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/bin/Debug/net5.0/digits_delegates.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/bin/Debug/net5.0/digits_delegates.dll
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/bin/Debug/net5.0/ref/digits_delegates.dll
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/bin/Debug/net5.0/digits_delegates.pdb
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/obj/Debug/net5.0/digits_delegates.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/obj/Debug/net5.0/digits_delegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/obj/Debug/net5.0/digits_delegates.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/obj/Debug/net5.0/digits_delegates.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/obj/Debug/net5.0/digits_delegates.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/obj/Debug/net5.0/digits_delegates.dll
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/obj/Debug/net5.0/ref/digits_delegates.dll
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/obj/Debug/net5.0/digits_delegates.pdb
+/home/tester13/Documents/Dotnet_Lab/digits_delegates/obj/Debug/net5.0/digits_delegates.genruntimeconfig.cache

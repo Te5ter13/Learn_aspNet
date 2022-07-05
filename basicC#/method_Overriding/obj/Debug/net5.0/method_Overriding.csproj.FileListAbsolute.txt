@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/obj/Debug/net5.0/method_Overriding.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/obj/Debug/net5.0/method_Overriding.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/obj/Debug/net5.0/method_Overriding.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/obj/Debug/net5.0/method_Overriding.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/obj/Debug/net5.0/method_Overriding.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/bin/Debug/net5.0/method_Overriding
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/bin/Debug/net5.0/method_Overriding.deps.json
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/bin/Debug/net5.0/method_Overriding.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/bin/Debug/net5.0/method_Overriding.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/bin/Debug/net5.0/method_Overriding.dll
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/bin/Debug/net5.0/ref/method_Overriding.dll
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/bin/Debug/net5.0/method_Overriding.pdb
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/obj/Debug/net5.0/method_Overriding.dll
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/obj/Debug/net5.0/ref/method_Overriding.dll
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/obj/Debug/net5.0/method_Overriding.pdb
+/home/tester13/Documents/Dotnet_Lab/method_Overriding/obj/Debug/net5.0/method_Overriding.genruntimeconfig.cache

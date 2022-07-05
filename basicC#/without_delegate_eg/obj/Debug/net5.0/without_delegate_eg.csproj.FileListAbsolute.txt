@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/bin/Debug/net5.0/without_delegate_eg
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/bin/Debug/net5.0/without_delegate_eg.deps.json
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/bin/Debug/net5.0/without_delegate_eg.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/bin/Debug/net5.0/without_delegate_eg.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/bin/Debug/net5.0/without_delegate_eg.dll
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/bin/Debug/net5.0/ref/without_delegate_eg.dll
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/bin/Debug/net5.0/without_delegate_eg.pdb
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/obj/Debug/net5.0/without_delegate_eg.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/obj/Debug/net5.0/without_delegate_eg.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/obj/Debug/net5.0/without_delegate_eg.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/obj/Debug/net5.0/without_delegate_eg.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/obj/Debug/net5.0/without_delegate_eg.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/obj/Debug/net5.0/without_delegate_eg.dll
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/obj/Debug/net5.0/ref/without_delegate_eg.dll
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/obj/Debug/net5.0/without_delegate_eg.pdb
+/home/tester13/Documents/Dotnet_Lab/without_delegate_eg/obj/Debug/net5.0/without_delegate_eg.genruntimeconfig.cache

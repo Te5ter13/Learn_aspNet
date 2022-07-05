@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/obj/Debug/net5.0/method_Overloading.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/obj/Debug/net5.0/method_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/obj/Debug/net5.0/method_Overloading.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/obj/Debug/net5.0/method_Overloading.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/obj/Debug/net5.0/method_Overloading.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/bin/Debug/net5.0/method_Overloading
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/bin/Debug/net5.0/method_Overloading.deps.json
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/bin/Debug/net5.0/method_Overloading.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/bin/Debug/net5.0/method_Overloading.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/bin/Debug/net5.0/method_Overloading.dll
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/bin/Debug/net5.0/ref/method_Overloading.dll
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/bin/Debug/net5.0/method_Overloading.pdb
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/obj/Debug/net5.0/method_Overloading.dll
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/obj/Debug/net5.0/ref/method_Overloading.dll
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/obj/Debug/net5.0/method_Overloading.pdb
+/home/tester13/Documents/Dotnet_Lab/method_Overloading/obj/Debug/net5.0/method_Overloading.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/bin/Debug/net5.0/dictionary_in_CS
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/bin/Debug/net5.0/dictionary_in_CS.deps.json
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/bin/Debug/net5.0/dictionary_in_CS.runtimeconfig.json
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/bin/Debug/net5.0/dictionary_in_CS.runtimeconfig.dev.json
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/bin/Debug/net5.0/dictionary_in_CS.dll
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/bin/Debug/net5.0/ref/dictionary_in_CS.dll
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/bin/Debug/net5.0/dictionary_in_CS.pdb
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/obj/Debug/net5.0/dictionary_in_CS.csprojAssemblyReference.cache
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/obj/Debug/net5.0/dictionary_in_CS.GeneratedMSBuildEditorConfig.editorconfig
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/obj/Debug/net5.0/dictionary_in_CS.AssemblyInfoInputs.cache
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/obj/Debug/net5.0/dictionary_in_CS.AssemblyInfo.cs
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/obj/Debug/net5.0/dictionary_in_CS.csproj.CoreCompileInputs.cache
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/obj/Debug/net5.0/dictionary_in_CS.dll
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/obj/Debug/net5.0/ref/dictionary_in_CS.dll
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/obj/Debug/net5.0/dictionary_in_CS.pdb
+/home/tester13/Documents/Dotnet_Lab/dictionary_in_CS/obj/Debug/net5.0/dictionary_in_CS.genruntimeconfig.cache
